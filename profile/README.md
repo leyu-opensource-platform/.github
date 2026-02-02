@@ -31,7 +31,6 @@ Leyu is fully open-source and welcomes contributors from developers, researchers
 ## Contributing
 
 We welcome community participation! You can contribute by opening issues, submitting pull requests, suggesting improvements, or helping curate datasets. Join us in building tools that support responsible and inclusive AI development.
-Got it 👍 Here’s a clean, **README-ready section** you can drop straight in for the demo details. I’ve formatted it to look professional while still being clear and friendly for contributors.
 
 ---
 
