@@ -1,21 +1,21 @@
 # Leyu
 
-**Leyu** is an open-source platform designed to collect, manage, and curate high-quality datasets for artificial intelligence (AI) and machine learning training.
+**Leyu** is an open-source data platform developed by **iCog**, a technology company dedicated to democratizing access to technology and building tools that support innovation, learning, and AI development. ([iCog][1])
 
 ## Overview
 
-Leyu enables individuals, communities, researchers, and organizations to collaboratively gather and organize diverse data types needed to build reliable AI systems. The platform focuses on accessibility, data quality, and openness to support responsible and inclusive AI development.
+Leyu is designed to collect, manage, and curate high-quality datasets for artificial intelligence (AI) and machine learning training. Developed under the vision of iCog to enable inclusive access to cutting-edge technology, Leyu empowers individuals, communities, researchers, and organizations to collaboratively gather and structure the data needed to build reliable and responsible AI systems. ([iCog][1])
 
 ## What Leyu Does
 
 * Collects datasets for AI and machine learning training
-* Supports multiple data types (text and audio)
+* Supports multiple data types, including text and audio
 * Enables collaborative data contribution and management
 * Helps ensure structured, reusable, and high-quality datasets
 
 ## Purpose
 
-The goal of Leyu is to lower the barrier to creating AI-ready datasets by providing an open and extensible platform that encourages community participation and transparency in data collection.
+The goal of Leyu is to lower the barrier to creating **AI-ready datasets** by providing an open and extensible platform that encourages community participation, accessibility, and transparency in data collection. As part of iCog’s mission to democratize technology and support the next generation of creators, Leyu is built with openness and ethical data stewardship in mind. ([iCog][1])
 
 ## Use Cases
 
@@ -26,16 +26,17 @@ The goal of Leyu is to lower the barrier to creating AI-ready datasets by provid
 
 ## Open Source
 
-Leyu is open-source and welcomes contributions from developers, researchers, and data practitioners who want to improve data accessibility for AI.
+Leyu is fully open-source and welcomes contributors from developers, researchers, and data practitioners who want to improve data accessibility and quality for AI. Contributions help ensure Leyu remains a trusted and extensible platform for diverse data needs.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to open issues, submit pull requests, or suggest improvements.
+We welcome community participation! You can contribute by opening issues, submitting pull requests, suggesting improvements, or helping curate datasets. Join us in building tools that support responsible and inclusive AI development.
 
 ## License
 
 This project is released under an open-source license. See the `LICENSE` file for details.
 
----
 
-**Leyu** — Building open datasets for the future of AI.
+**Leyu — Building open datasets for the future of AI, powered by iCog.**
+
+[1]: https://icog.et/ "iCog"
