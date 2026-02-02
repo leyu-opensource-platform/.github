@@ -31,6 +31,47 @@ Leyu is fully open-source and welcomes contributors from developers, researchers
 ## Contributing
 
 We welcome community participation! You can contribute by opening issues, submitting pull requests, suggesting improvements, or helping curate datasets. Join us in building tools that support responsible and inclusive AI development.
+Got it 👍 Here’s a clean, **README-ready section** you can drop straight in for the demo details. I’ve formatted it to look professional while still being clear and friendly for contributors.
+
+---
+
+## Demo
+
+You can explore Leyu through both the **mobile app** and the **web dashboard** using the demo environment below.
+
+### Web Dashboard
+
+👉 [https://leyu-frontend.vercel.app/](https://leyu-frontend.vercel.app/)
+
+### Mobile App
+
+👉 [https://drive.google.com/file/d/1-RFKq3q83XLqucsJHXqGOsKUMHCeqgud/view?usp=drive_link](https://drive.google.com/file/d/1-RFKq3q83XLqucsJHXqGOsKUMHCeqgud/view?usp=drive_link)
+
+### Demo Credentials
+
+Use the following accounts to explore different roles within the platform:
+
+**Project Manager**
+
+* Username: `project@manager.com`
+* Password: `Leyu@1234`
+
+**Reviewer**
+
+* Username: `test@reviewer.com`
+* Password: `Leyu@1234`
+
+**Contributor**
+
+* Username: `+251900001111`
+* Password: `Leyu@1234`
+
+**Facilitator**
+
+* Username: `test@facilitator.com`
+* Password: `Leyu@1234`
+
+> ⚠️ These credentials are for demo purposes only.
 
 ## License
 
